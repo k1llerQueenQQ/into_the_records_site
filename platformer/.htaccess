@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+RewriteEngine On
+
+RewriteRule ^id([0-9]+) users.php?id=$1

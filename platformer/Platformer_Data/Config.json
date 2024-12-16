@@ -1,0 +1,14 @@
+{
+    "IpAdress": "localhost",
+    "PortAdress": "49001",
+    "MySQLHost": "localhost",
+    "MySQLDatabase": "record",
+    "MySQLPort": "8889",
+    "MySQLCharset": "utf8mb4",
+    "MySQLUser": "root",
+    "MySQLPassword": "root",
+    "MySQLClientUser": "",
+    "MySQLClientPassword": "",
+    "MySQLClientLogin": "PavelDich",
+    "CustomConnectionString": "server=localhost;database=record_app;port=3307;charset=utf8mb4;user=root;password=root"
+}
